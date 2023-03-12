@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![weather](https://user-images.githubusercontent.com/75424678/224545637-a6caf45d-a121-41b4-a6fa-cdb6587c730f.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
